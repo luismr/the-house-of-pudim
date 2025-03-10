@@ -25,10 +25,10 @@ If you'd like to contribute, please **ping me first** via:
 📬 [GitHub](https://github.com/luismr)  
 
 To submit your contribution:  
-1. Fork the repository  
-2. Create a new branch  
-3. Add your article or improvement  
-4. Submit a **pull request to `main`**  
-5. Let’s review it together! 🍮  
+1️⃣ Fork the repository  
+2️⃣ Create a new branch  
+3️⃣ Add your article or improvement  
+4️⃣ Submit a **pull request to `main`**  
+5️⃣ Let’s review it together! 🍮  
 
 📜 **License**: This project is open-source under the [MIT License](LICENSE.md).  
