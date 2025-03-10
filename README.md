@@ -1,7 +1,6 @@
 # The House of Pudim 🏡🍮  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Markdown](https://img.shields.io/badge/Markdown-Enabled-blue.svg)](https://daringfireball.net/projects/markdown/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  [![Markdown](https://img.shields.io/badge/Markdown-Enabled-blue.svg)](https://daringfireball.net/projects/markdown/)  
 
 
 Welcome to **The House of Pudim**, a cozy corner on GitHub where I store my blog articles as Markdown files. This repository serves as an archive of my thoughts, ideas, and stories—ranging from technology and coding to life, creativity, and everything in between.  
