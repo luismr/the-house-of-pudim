@@ -165,8 +165,8 @@ If keybindings for **Command + Left Arrow** and **Command + Right Arrow** are no
 6. Repeat the process for `Command + Right Arrow`, setting the hex code to `0x05` (moves to the end of the command line).
 
 ### Additional Keybindings
-- **Move one word backward**: `Option + Left Arrow` → Send Hex Code `0x33b`
-- **Move one word forward**: `Option + Right Arrow` → Send Hex Code `0x33f`
+- **Move one word backward**: `Option + Left Arrow` → Send Escape `b`
+- **Move one word forward**: `Option + Right Arrow` → Send Escape `f`
 
 Close Preferences and test the shortcuts in your terminal to ensure they are working as expected.
 
